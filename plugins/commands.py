@@ -42,15 +42,15 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕↖️ 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ', url='https://t.me/Notificationsactr/9'), 
-            InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+LL0gCYlzDnRjYmY1')
+            InlineKeyboardButton('💁‍♂️ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ', url='https://t.me/Notificationsactr/9'), 
+            InlineKeyboardButton('📡𝘜𝘱𝘥𝘢𝘵𝘦𝘴', url='https://t.me/+LL0gCYlzDnRjYmY1')
             ],[
-            InlineKeyboardButton('🙆🏻 𝙃𝙚𝙡𝙥', callback_data='help'),
-            InlineKeyboardButton('𝘼𝙗𝙤𝙪𝙩', callback_data='about')
+            InlineKeyboardButton('𝘏𝘦𝘭𝘱', callback_data='help'),
+            InlineKeyboardButton('𝘈𝘣𝘰𝘶𝘵', callback_data='about')
             ],[
-            InlineKeyboardButton('❤ 𝙂𝙀𝙏 𝙋𝙍𝙄𝙈𝙀 𝙁𝙊𝙍 𝘿𝙄𝙍𝙀𝘾𝙏 𝙁𝙄𝙇𝙀𝙎 ❤', url='https://t.me/Notificationsactr/22')
+            InlineKeyboardButton('💡𝐆𝐞𝐭 𝐏𝐫𝐢𝐦𝐞 𝐅𝐨𝐫 𝐃𝐢𝐫𝐞𝐜𝐭 𝐅𝐢𝐥𝐞𝐬', url='https://t.me/Notificationsactr/22')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
