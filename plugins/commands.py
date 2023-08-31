@@ -92,7 +92,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ', url='https://t.me/Notificationsactr/9')
+            InlineKeyboardButton('ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ', url='https://t.me/Notificationsactr/9'), 
             InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+LL0gCYlzDnRjYmY1')
             ],[
             InlineKeyboardButton('🙆🏻 𝙃𝙚𝙡𝙥', callback_data='help'),
