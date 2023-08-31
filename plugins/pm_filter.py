@@ -111,8 +111,8 @@ async def next_page(bot, query):
     )
     btn.insert(1, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/TamilanMoviesChat'),
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/Sharathitsisme')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+flUQ-va_Tbk5MWFl'),
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/AtWoner_bot')
         ]
     )
    
@@ -441,7 +441,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "start":
         buttons = [[
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/+kAh07hUHdt9mZjFl'),
-            InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+kAh07hUHdt9mZjFl')
+            InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+flUQ-va_Tbk5MWFl')
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/AtWoner_bot'),
             InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://t.me/AtWoner_bot'),
