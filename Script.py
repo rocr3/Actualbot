@@ -24,8 +24,8 @@ Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how su
 
 <b>›› Eɴᴊᴏʏ !! Mᴏʀᴇ Iɴғᴏ Usᴇ Uɴᴅᴇʀ Bᴜᴛᴛᴏɴs</b>"""
     
-    ABOUT_TXT = """🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}><b>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</b></a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Sharathitsisme></b><b>sʜᴀʀᴀᴛʜ<b></a>
+    ABOUT_TXT = """🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}><b>
+💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/AtWoner_bot></b><b>ROC<b></a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
