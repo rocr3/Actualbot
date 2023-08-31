@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
+                InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/actual_thing'),
             ],
             [
                 InlineKeyboardButton('ℹ️ ʜᴇʟᴘ ℹ️', url=f'https://t.me/{temp.U_NAME}?start=help')
@@ -42,18 +42,16 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
+            InlineKeyboardButton('➕↖️ 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
-            InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+qswNBTRWlv9lNjQ1'),
+            InlineKeyboardButton('𝑺𝒆𝒂𝒓𝒄𝒉', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+LL0gCYlzDnRjYmY1')
             ],[
-            InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilanBotsZ_Support'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
+            InlineKeyboardButton('🙆🏻 𝙃𝙚𝙡𝙥', callback_data='help'),
+            InlineKeyboardButton('𝘼𝙗𝙤𝙪𝙩', callback_data='about')
             ],[
-            InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
-            ],[
-            InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
-        ]]
+            InlineKeyboardButton('❤ 𝙂𝙀𝙏 𝙋𝙍𝙄𝙈𝙀 𝙁𝙊𝙍 𝘿𝙄𝙍𝙀𝘾𝙏 𝙁𝙄𝙇𝙀𝙎 ❤', url='https://t.me/Notificationsactr/22')
+            ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
@@ -92,18 +90,16 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
+            InlineKeyboardButton('➕↖️ 𝘼𝙙𝙙 𝙈𝙚 𝙏𝙤 𝙔𝙤𝙪𝙧 𝙂𝙧𝙤𝙪𝙥 ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
-            InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+qswNBTRWlv9lNjQ1'),
+            InlineKeyboardButton('𝑺𝒆𝒂𝒓𝒄𝒉', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+LL0gCYlzDnRjYmY1')
             ],[
-            InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilanBotsZ_Support'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
+            InlineKeyboardButton('🙆🏻 𝙃𝙚𝙡𝙥', callback_data='help'),
+            InlineKeyboardButton('𝘼𝙗𝙤𝙪𝙩', callback_data='about')
             ],[
-            InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
-            ],[
-            InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
-        ]]
+            InlineKeyboardButton('❤ 𝙂𝙀𝙏 𝙋𝙍𝙄𝙈𝙀 𝙁𝙊𝙍 𝘿𝙄𝙍𝙀𝘾𝙏 𝙁𝙄𝙇𝙀𝙎 ❤', url='https://t.me/Notificationsactr/22')
+            ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
