@@ -1,5 +1,4 @@
 
-  <img src="[[https://te.legra.ph/file/12d811d8bd6d19299f369.jpg]</p>
   <h1 align="center">
     <b>Actual Bot</b>
     </h1>
