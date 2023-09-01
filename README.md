@@ -1,6 +1,5 @@
 
-  <img src="[[https://te.legra.ph/file/12d811d8bd6d19299f369.jpg]([https://dd.ci/file/5bbc8806df2522f341aed.jpg](https://dd.ci/file/5bbc8806df2522f341aed.jpg))]([[https://telegra.ph/file/cad7038fe82e47f79c609.jpg](https://dd.ci/file/5bbc8806df2522f341aed.jpg)](https://dd.ci/file/5bbc8806df2522f341aed.jpg))" alt="Actual Bot Logo">
-  </p>
+  <img src="[[https://te.legra.ph/file/12d811d8bd6d19299f369.jpg]</p>
   <h1 align="center">
     <b>Actual Bot</b>
     </h1>
