@@ -1,9 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Aᴡᴇsᴏᴍᴇ+Fɪʟᴛᴇʀ+Pʀᴏ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
+  <img src="[https://te.legra.ph/file/12d811d8bd6d19299f369.jpg](https://telegra.ph/file/cad7038fe82e47f79c609.jpg)" alt="Actual Bot Logo">
   </p>
   <h1 align="center">
-    <b>AᴡᴇsᴏᴍᴇFɪʟᴛᴇʀ Pʀᴏ</b>
+    <b>Actual Bot</b>
     </h1>
 
 👩‍💻 Vᴇʀsɪᴏɴ :- 0.1 ✨
@@ -43,9 +43,7 @@
 
 ## Mᴜsᴛ Dᴏ Bᴇғᴏʀᴇ Eᴅɪᴛ Tʜɪs Rᴇᴘᴏ 👇
 
- - 💗 Sᴛᴀʀ Tʜɪs Rᴇᴘᴏ 🌟 - Sᴜᴘᴘᴏʀᴛ TᴀᴍɪʟᴀɴBᴏᴛsZ Cᴏᴍᴍᴜɴɪᴛʏ 💥 -
-
-## Dᴇᴘᴏʟʏ
+ - 💗 Sᴛᴀʀ Tʜɪs Rᴇᴘᴏ 🌟 - Sᴜᴘᴘᴏʀᴛ  Tʜɪs Rᴇᴘᴏ 🌟 - Support Actual Thing
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
@@ -119,8 +117,7 @@ unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
-## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
+#
 
 ## Tʜᴀɴᴋs Tᴏ 
  - Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
