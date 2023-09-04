@@ -1,6 +1,6 @@
 
   <h1 align="center">
-    <b>Actual Bot</b>
+    <b>Bot</b>
     </h1>
 
 👩‍💻 Vᴇʀsɪᴏɴ :- 0.1 ✨
